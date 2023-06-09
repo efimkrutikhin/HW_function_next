@@ -1,0 +1,15 @@
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.csproj.AssemblyReference.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.AssemblyInfoInputs.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.AssemblyInfo.cs
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.csproj.CoreCompileInputs.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\bin\Debug\net6.0\function_next.exe
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\bin\Debug\net6.0\function_next.deps.json
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\bin\Debug\net6.0\function_next.runtimeconfig.json
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\bin\Debug\net6.0\function_next.dll
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\bin\Debug\net6.0\function_next.pdb
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.dll
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\refint\function_next.dll
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.pdb
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\function_next.genruntimeconfig.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\домашка\function_next\obj\Debug\net6.0\ref\function_next.dll
